@@ -1,0 +1,6 @@
+Summary
+Dataset Exploration and Preprocessing: Cleaned and prepared the data for training.
+Model Training: Used a pre-trained transformer model (BART) for seq2seq learning.
+Fine-Tuning: Adjusted the model to improve response coherence and relevance.
+Evaluation: Assessed the model's performance and adjusted as needed.
+Deliverables: Provided a Jupyter notebook for users to input queries and get automated responses.
