@@ -10,6 +10,7 @@ The final model can be used to generate relevant and coherent responses to new c
  Demo: A demo is provided to input a query and receive an automated response.
 ## Files:
  Customer-Support.csv: The dataset containing customer queries and responses.
+ 
  automated_response_generator.ipynb: The main Jupyter notebook containing code for loading the dataset, training the model, and generating responses.
 ## Requirements
 Google Colab or Jupyter Notebook
