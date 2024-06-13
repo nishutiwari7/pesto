@@ -49,7 +49,7 @@ Go to automated_response_generator.ipynb file
 ## Output of code:
 Updated dataset saved to //content/Customer-Support-with-Generated-Responses.csv
 Updated Dataset Head:
-                                    query  \
+                                    query  
 0           My order hasn't arrived yet.   
 1          I received a damaged product.   
 2              I need to return an item.   
