@@ -1,4 +1,4 @@
-# Automated Customer Support Response Generator
+# Automated Response Generation for Customer Support
 This project aims to build a model that can generate automated responses to customer queries. 
 Using a transformer-based model (T5), we train it on a dataset of customer queries and their corresponding responses. 
 The final model can be used to generate relevant and coherent responses to new customer queries.
