@@ -46,6 +46,23 @@ Provide a demo to input a query and display the generated response.
 ## Code: 
 Go to automated_response_generator.ipynb file
 
+## Output of code:
+Updated dataset saved to //content/Customer-Support-with-Generated-Responses.csv
+Updated Dataset Head:
+                                    query  \
+0           My order hasn't arrived yet.   
+1          I received a damaged product.   
+2              I need to return an item.   
+3  I want to change my shipping address.   
+4       I have a question about my bill.   
+
+                                            response generated_response  
+0  We apologize for the inconvenience. Can you pl...                     
+1  We apologize for the inconvenience. Can you pl...                     
+2  Certainly. Please provide your order number an...                     
+3  No problem. Can you please provide your order ...                     
+4  We'd be happy to help. Can you please provide ... 
+
 # Results:
 After training the model, you can use the generate_response function to generate responses for any customer query.
 The display_responses function demonstrates how to use the trained model to generate responses for a sample of queries from the dataset.
