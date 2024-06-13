@@ -58,11 +58,11 @@ Updated Dataset Head:
 4       I have a question about my bill.   
 
                                             response generated_response  
-0  We apologize for the inconvenience. Can you pl...                     
-1  We apologize for the inconvenience. Can you pl...                     
-2  Certainly. Please provide your order number an...                     
-3  No problem. Can you please provide your order ...                     
-4  We'd be happy to help. Can you please provide ... 
+0  We apologize for the inconvenience. Can you please provide your order number so we can investigate?                     
+1  We apologize for the inconvenience. Can you please provide a photo of the damaged product so we can assist you further?                    
+2  Certainly. Please provide your order number and reason for return, and we will provide you with instructions on how to proceed.                     
+3  No problem. Can you please provide your order number and the new shipping address you'd like to use?                     
+4  We'd be happy to help. Can you please provide your account number and a brief description of your question? 
 
 # Results:
 After training the model, you can use the generate_response function to generate responses for any customer query.
